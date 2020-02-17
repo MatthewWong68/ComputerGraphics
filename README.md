@@ -1,6 +1,7 @@
 # ComputerGraphics
+This is a Java individual program.
+It have 6 functions in total.
 
-# 6 features in the application:
 ## (1) Invert
 Invert the pixel values of the images
 
