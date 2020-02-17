@@ -23,6 +23,9 @@ Turns an image into grey scale
 ## (5) Histogram equalisation
 Make changes to the brightness of the image
 
+![alt text](Histogram.png)
+
+
 ## (6) Cross correlation
 Edge detector
 
