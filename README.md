@@ -26,6 +26,8 @@ Make changes to the brightness of the image
 ## (6) Cross correlation
 Edge detector
 
+![alt text](CC.png)
+
 
 Home Screen of the photoshop:
 
