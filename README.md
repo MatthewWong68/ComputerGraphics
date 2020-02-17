@@ -1,4 +1,4 @@
-# ComputerGraphics
+# Computer Graphics
 This is a Java individual program.
 It have 6 functions in total.
 
