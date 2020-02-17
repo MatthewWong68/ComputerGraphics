@@ -1,8 +1,11 @@
 # ComputerGraphics
 
-Features:
+# 6 features in the application:
 ## (1) Invert
 Invert the pixel values of the images
+
+![alt text](gammaCorrection.png)
+
 
 ## (2) Gamma correction
 Takes in a gamma value
@@ -18,6 +21,7 @@ Make changes to the brightness of the image
 
 ## (6) Cross correlation
 Edge detector
+
 
 Home Screen of the photoshop:
 
