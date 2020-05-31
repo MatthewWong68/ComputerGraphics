@@ -2,6 +2,8 @@
 This is a Java individual program.
 It have 6 functions in total.
 
+Technology/library used: Javafx
+
 ## (1) Invert
 Invert the pixel values of the images
 
